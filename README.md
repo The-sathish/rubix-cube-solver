@@ -61,7 +61,7 @@ rubixmaster/
 
 ```bash id="6xoz8s"
 # Clone the repository
-git clone https://github.com/your-username/rubixmaster.git
+https://github.com/The-sathish/rubix-cube-solver
 
 # Navigate into the project directory
 cd rubixmaster
@@ -111,4 +111,4 @@ Contributions are encouraged. To contribute:
 ## Author
 
 Sathish M
-GitHub: https://github.com/your-username
+https://github.com/The-sathish
